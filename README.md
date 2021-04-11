@@ -1,3 +1,4 @@
+## &#x1f4c8; Bio
 - 👋 Hi, I’m @Priv8L
 - 👀 I’m interested in Python
 - 💞️ I’m looking to collaborate..
